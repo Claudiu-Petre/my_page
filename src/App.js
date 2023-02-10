@@ -1,4 +1,3 @@
-// import Counter from './components/Counter';
 import './styles/header.css'
 import './styles/footer.css'
 import Header from './components/Header';

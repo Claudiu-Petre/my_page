@@ -1,9 +1,13 @@
 import React from 'react'
+import Navigation from './Navigation'
 
 const Header = () => {
   return (
     <header className="header">
-  mYpAgE
+      <span className='mypage'>
+        mYpAgE
+      </span>
+        <Navigation />
     </header>
   )
 }
